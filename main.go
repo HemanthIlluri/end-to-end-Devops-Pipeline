@@ -6,7 +6,7 @@ import (
 )
 
 func home(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintln(w, "Hello from DevOps Project 🚀 END to END Pipeline")
+	fmt.Fprintln(w, "Hello from DevOps Project 🚀 END to END Pipeline Project")
 }
 
 func main() {
