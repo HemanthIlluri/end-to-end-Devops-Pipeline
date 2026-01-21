@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "kubernetes": "*.yaml",
+        "https://www.schemastore.org/helmfile.json": "file:///Users/hemanthreddyilluri/end-to-end-devops-pipeline/helm/devops-go-app-chart/values.yaml"
+    }
+}
