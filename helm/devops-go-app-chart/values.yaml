@@ -8,5 +8,5 @@ image:
   repository: hemanthilluri/devops-go-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "21226843328"
+  tag: "21227849244"
 
